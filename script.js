@@ -1,3 +1,5 @@
+// TypeWriter
+
 function typeWriter(){
     if(characterIndex <texts[textIndex].length){
         textElements.innerHTML += texts[textIndex].charAt(characterIndex)
